@@ -31,6 +31,14 @@ public class Roba {
         this.tezina = tezina;
     }
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
     public String getNaziv() {
         return naziv;
     }
@@ -70,7 +78,6 @@ public class Roba {
                 ", naziv='" + naziv + '\'' +
                 ", opis='" + opis + '\'' +
                 ", tezina=" + tezina +
-                ", avion=" + avion +
                 '}';
     }
 }
