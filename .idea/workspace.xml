@@ -10,7 +10,13 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Roba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Roba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/model/Avion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/model/Avion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/zadaci/Zadatak1KreiranjeTabela.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/zadaci/Zadatak1KreiranjeTabela.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Avion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Avion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak3IzmenaVrednosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak3IzmenaVrednosti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak4BrisanjeVrednosti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak4BrisanjeVrednosti.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +48,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Zadatak2DodavanjeVrednosti">
     <configuration name="Zadatak1KreiranjeTabela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadaci.Zadatak1KreiranjeTabela" />
       <module name="ZadatakAvionRoba.main" />
@@ -59,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadatak2DodavanjeVrednosti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadaci.Zadatak2DodavanjeVrednosti" />
+      <module name="ZadatakAvionRoba.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadaci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadatak2DodavanjeVrednosti" />
         <item itemvalue="Application.Zadatak1KreiranjeTabela" />
       </list>
     </recent_temporary>
@@ -90,27 +111,30 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1579369756703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579369756703" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579369763993">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579371117850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579369763993" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579369763993">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579371117850" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579371117850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579369763993" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579369763993">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579371117850" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579371117850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579369763993" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579369763993">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579371117850" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579371117850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579369763993" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579371117850" />
     <state x="342" y="132" key="new project wizard" timestamp="1579368298224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
